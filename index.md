@@ -1,22 +1,36 @@
-## Welcome to GitHub Pages
+# Ingri Katherine Quevedo Rocha
 
-You can use the [editor on GitHub](https://github.com/IngriKatherine/Ingri-Quevedo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Jersey City, NJ | [LinkedIn](https://www.linkedin.com/in/ingri-katherine-quevedo-rocha-387661145/)  | 973-313-7970| [Email](katherinquevedo@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Work Experience
 
-### Markdown
+### Pontificia Universidad Javeriana - Quanta Cuidado y Género
+**Quantitative Research Assistant** _(May 2021 – Present)_ <br>
+Remote Bogotá, Colombia 
+  - Analyze and conduct industry research focusing on examining the care sector and gender disparities in the labor market.
+  - Perform data input, organization, and cleaning/reconciliation on STATA across 4 household surveys databases and the Colombian Census.
+  - Assist in the preparation of a policy brief on the care sector in Colombia, by creating a literature review and descriptive statistics.
+  - Support in the preparation and implementation of training workshops for public entities and/or social organizations.
+<br><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Freelancer
+**Research Assistant** _(December 2021 - Present)_ <br>
+Remote Bogotá, Colombia 
+  - Consulting in research assistance for Paula Herrera Idáraga and UN Women. Process data, estimate statistics, and generate an index of empowerment for immigrant women in Colombia using Principal Component Analysis in STATA.
+<br><br>
 
-```markdown
-Syntax highlighted code block
+### Freelancer
+**Research Assistant** _(February 2021 - May 2021)_ <br>
+Remote Bogotá, Colombia 
+  - Consulting in research assistance for Ana Cristina Gonzalez Velez and UNFPA (United Nations Population Fund). Data management and creation of statistic reports about the impact of Covid-19 on maternal mortality, maternal mobility, gender-based violence, women's sexual rights, and fecundity.
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+### Freelancer
+**Research Assistant** _(October 2020 - January 2021)_ <br>
+Remote Bogotá, Colombia 
+  - Processed and cleaned data on covid-19 cases and mobility rates, and created descriptive statics for the paper Castells-Quintana, David and Herrera-Idáraga, Paula and Quintero, Luis and Sinisterra, Guillermo, Unequal Response to Mobility Restrictions: Evidence from COVID-19 Lockdown in the City of Bogotá (May 1, 2021). UNDP COVID-19 Policy Documents Series, Available at SSRN: [http://dx.doi.org/10.2139/ssrn.3773885](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3773885)
 
-- Bulleted
-- List
+<br><br>
 
 1. Numbered
 2. List
