@@ -7,22 +7,22 @@ Jersey City, NJ | [LinkedIn](https://www.linkedin.com/in/ingri-katherine-quevedo
 #### Pontificia Universidad Javeriana - Quanta Cuidado y Género
 **Quantitative Research Assistant** _(May 2021 – Present)_ <br>
 Remote Bogotá, Colombia 
-  - Analyze and conduct industry research focusing on examining the care sector and gender disparities in the labor market.
-  - Perform data input, organization, and cleaning/reconciliation on STATA across 4 household surveys databases and the Colombian Census.
-  - Assist in the preparation of a policy brief on the care sector in Colombia, by creating a literature review and descriptive statistics.
-  - Support in the preparation and implementation of training workshops for public entities and/or social organizations.
+  - Analyze and conduct industry research focusing on examining the care sector and gender disparities in the labor market
+  - Perform data input, organization, and cleaning/reconciliation on STATA across 4 household surveys databases and the Colombian Census
+  - Assist in the preparation of a policy brief on the care sector in Colombia, by creating a literature review and descriptive statistics
+  - Support in the preparation and implementation of training workshops for public entities and/or social organizations
 <br><br>
 
 #### Freelancer
 **Research Assistant** _(December 2021 - Present)_ <br>
 Remote Bogotá, Colombia 
-  - Consulting in research assistance for Paula Herrera Idáraga and UN Women. Process data, estimate statistics, and generate an index of empowerment for immigrant women in Colombia using Principal Component Analysis in STATA.
+  - Consulting in research assistance for Paula Herrera Idáraga and UN Women. Process data, estimate statistics, and generate an index of empowerment for immigrant women in Colombia using Principal Component Analysis in STATA
 <br><br>
 
 #### Freelancer
 **Research Assistant** _(February 2021 - May 2021)_ <br>
 Remote Bogotá, Colombia 
-  - Consulting in research assistance for Ana Cristina Gonzalez Velez and UNFPA (United Nations Population Fund). Data management and creation of statistic reports about the impact of Covid-19 on maternal mortality, maternal mobility, gender-based violence, women's sexual rights, and fecundity.
+  - Consulting in research assistance for Ana Cristina Gonzalez Velez and UNFPA (United Nations Population Fund). Data management and creation of statistic reports about the impact of Covid-19 on maternal mortality, maternal mobility, gender-based violence, women's sexual rights, and fecundity
 <br><br>
 
 #### Freelancer
