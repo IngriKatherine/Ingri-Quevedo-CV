@@ -58,9 +58,9 @@ GPA: 3.04
 
 ### PUBLICATIONS
 - Arango, Luis E., and Quevedo-Rocha Ingri. Credit constraints in Colombia: evidence from the use of credit cards among low- and middle-income individuals. International Journal of Emerging Markets. (Revised and Resubmitted).
-- Quevedo, I. K., Herrera-Idárraga, P. & Hernández, H. M. (2021). Condiciones laborales de las y los trabajadores del cuidado en Colombia. Informe Quanta - Cuidado y Género. Recuperado de:  https://cuidadoygenero.org/condiciones-laborales https://cuidadoygenero.org/condiciones-laborales
-- Hernández, H. M., Herrera-Idárraga, P. & Quevedo, I. K. (2022). El sector del cuidado remunerado en las principales ciudades de Colombia. Informe Quanta - Cuidado y Género. Recuperado de: https://cuidadoygenero.org/cuidado_remunerado_ciudades 
-- Hernández, H. M., Herrera-Idárraga, P. & Quevedo, I. K. (2022). Infraestructura física del cuidado en Colombia: una aproximación cuantitativa a la relación entre el acceso al agua y el uso del tiempo. Informe Quanta - Cuidado y Género. Recuperado de: https://cuidadoygenero.org/wp-content/uploads/2022/05/Infraestructura-cuidado.pdf 
+- Quevedo, I. K., Herrera-Idárraga, P. & Hernández, H. M. (2021). Condiciones laborales de las y los trabajadores del cuidado en Colombia. Informe Quanta - Cuidado y Género. Recuperado de: [https://cuidadoygenero.org/condiciones-laborales](https://cuidadoygenero.org/condiciones-laborales)
+- Hernández, H. M., Herrera-Idárraga, P. & Quevedo, I. K. (2022). El sector del cuidado remunerado en las principales ciudades de Colombia. Informe Quanta - Cuidado y Género. Recuperado de: [https://cuidadoygenero.org/cuidado_remunerado_ciudades](https://cuidadoygenero.org/cuidado_remunerado_ciudades)
+- Hernández, H. M., Herrera-Idárraga, P. & Quevedo, I. K. (2022). Infraestructura física del cuidado en Colombia: una aproximación cuantitativa a la relación entre el acceso al agua y el uso del tiempo. Informe Quanta - Cuidado y Género. Recuperado de: [https://cuidadoygenero.org/wp-content/uploads/2022/05/Infraestructura-cuidado.pdf](https://cuidadoygenero.org/wp-content/uploads/2022/05/Infraestructura-cuidado.pdf)
 <br><br>
 
 ### CONFERENCES & SEMINARS
