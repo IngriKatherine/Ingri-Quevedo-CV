@@ -6,7 +6,7 @@ Jersey City, NJ | [LinkedIn](https://www.linkedin.com/in/ingri-katherine-quevedo
 
 #### Inter-American Development Bank
 **Research Fellow** _(June 2022 – Present)_ <br>
-Washington, DC 
+Washington, District of Columbia, United States
   - Assist researchers in the preparation of research papers, reports, and presentations
   - Identify, compile, and organize databases
   - Perform econometric and statistical analyses
