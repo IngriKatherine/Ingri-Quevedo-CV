@@ -27,13 +27,13 @@ Remote Bogotá, Colombia
 #### Freelancer
 **Research Assistant** _(December 2021 - Present)_ <br>
 Remote Bogotá, Colombia 
-  - Consulting in research assistance for Paula Herrera Idáraga and UN Women. Process data, estimate statistics, and generate an index of empowerment for immigrant women in Colombia using Principal Component Analysis in STATA
+  - Research assistance in the consultancy with Paula Herrera Idáraga for UN Women Colombia. Process data, estimate statistics, and generate an index of empowerment for immigrant women in Colombia
 <br><br>
 
 #### Freelancer
 **Research Assistant** _(February 2021 - May 2021)_ <br>
 Remote Bogotá, Colombia 
-  - Consulting in research assistance for Ana Cristina Gonzalez Velez and UNFPA (United Nations Population Fund). Data management and creation of statistic reports about the impact of Covid-19 on maternal mortality, maternal mobility, gender-based violence, women's sexual rights, and fecundity
+  - Research assistance in the consultancy with Ana Cristina Gonzalez Velez for UNFPA (United Nations Population Fund). Data management and creation of statistic reports about the impact of Covid-19 on maternal mortality, maternal mobility, gender-based violence, women's sexual rights, and fecundity
 <br><br>
 
 #### Freelancer
