@@ -4,8 +4,19 @@ Jersey City, NJ | [LinkedIn](https://www.linkedin.com/in/ingri-katherine-quevedo
 
 ### WORK EXPERIENCE
 
+#### Inter-American Development Bank
+**Research Fellow** _(June 2022 – Present)_ <br>
+Washington, DC 
+  - Assist researchers in the preparation of research papers, reports, and presentations.
+  - Identify, compile, and organize databases.
+  - Perform econometric and statistical analyses.
+  - Prepare literature reviews.
+  - Participate in academic discussions on research findings.
+  - Provide support in project management or field experiments.
+<br><br>
+
 #### Pontificia Universidad Javeriana - Quanta Cuidado y Género
-**Quantitative Research Assistant** _(May 2021 – Present)_ <br>
+**Quantitative Research Assistant** _(May 2021 – May 2022)_ <br>
 Remote Bogotá, Colombia 
   - Analyze and conduct industry research focusing on examining the care sector and gender disparities in the labor market
   - Perform data input, organization, and cleaning/reconciliation on STATA across 4 household surveys databases and the Colombian Census
