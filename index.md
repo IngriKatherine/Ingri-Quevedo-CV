@@ -33,14 +33,13 @@ Remote Bogotá, Colombia
 #### Freelancer
 **Research Assistant** _(February 2021 - May 2021)_ <br>
 Remote Bogotá, Colombia 
-  - Research assistance in the consultancy with Ana Cristina Gonzalez Velez for UNFPA (United Nations Population Fund). Data management and creation of statistic reports about the impact of Covid-19 on maternal mortality, maternal mobility, gender-based violence, women's sexual rights, and fecundity
+  - Research assistance in the consultancy with Ana Cristina Gonzalez Velez for UNFPA (United Nations Population Fund). Data management and creation of statistic reports about the impact of Covid-19 on maternal mortality, maternal mobility, gender-based violence, women's sexual rights, and fecundity 
 <br><br>
 
 #### Freelancer
 **Research Assistant** _(October 2020 - January 2021)_ <br>
 Remote Bogotá, Colombia 
-  - Processed and cleaned data on covid-19 cases and mobility rates, and created descriptive statics for the paper Castells-Quintana, David and Herrera-Idáraga, Paula and Quintero, Luis and Sinisterra, Guillermo, Unequal Response to Mobility Restrictions: Evidence from COVID-19 Lockdown in the City of Bogotá (May 1, 2021). UNDP COVID-19 Policy Documents Series, Available at SSRN: [http://dx.doi.org/10.2139/ssrn.3773885](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3773885)
-
+  - Processed and cleaned data on covid-19 cases and mobility rates, and created descriptive statics for the paper Castells-Quintana, David and Herrera-Idáraga, Paula and Quintero, Luis and Sinisterra, Guillermo, Unequal Response to Mobility Restrictions: Evidence from COVID-19 Lockdown in the City of Bogotá (May 1, 2021). UNDP COVID-19 Policy Documents Series, Available at SSRN: [http://dx.doi.org/10.2139/ssrn.3773885](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3773885) 
 <br><br>
 
 #### Pontificia Universidad Javeriana - Economics Department
@@ -48,7 +47,6 @@ Remote Bogotá, Colombia
 Remote Bogotá, Colombia 
   - Built a database with the information on individuals’ skills with data from the National Service Labor Bureau of Colombia, using text analysis in R and machine learning in Python to estimate the skill-mismatch between labor demand and labor supply
   - Organized a workshop for the technical team in the National Service Labor Bureau to learn how to apply text analysis and connect the labor supply and demand in Colombia to reduce the skill mismatch
-
 <br><br>
 
 #### Banco de la República de Colombia
@@ -84,7 +82,7 @@ GPA: 3.04
   - Spanish - native, English - advanced (TOEFL score = 101/120)
 
 **Skills**
-  - STATA, R, Microsoft Office (Excel, PowerPoint, Word), Eviews, SAS, Python (panda), Latex, QGis.
+  - STATA, SAS, Microsoft Office (Excel, PowerPoint, Word), Python, R, Latex, QGis, Eviews.
 <br><br>
 
 ### RESEARCH INTERESTS
