@@ -7,12 +7,12 @@ Jersey City, NJ | [LinkedIn](https://www.linkedin.com/in/ingri-katherine-quevedo
 #### Inter-American Development Bank
 **Research Fellow** _(June 2022 – Present)_ <br>
 Washington, DC 
-  - Assist researchers in the preparation of research papers, reports, and presentations.
-  - Identify, compile, and organize databases.
-  - Perform econometric and statistical analyses.
-  - Prepare literature reviews.
-  - Participate in academic discussions on research findings.
-  - Provide support in project management or field experiments.
+  - Assist researchers in the preparation of research papers, reports, and presentations
+  - Identify, compile, and organize databases
+  - Perform econometric and statistical analyses
+  - Prepare literature reviews
+  - Participate in academic discussions on research findings
+  - Provide support in project management or field experiments
 <br><br>
 
 #### Pontificia Universidad Javeriana - Quanta Cuidado y Género
