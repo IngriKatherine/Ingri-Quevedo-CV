@@ -66,7 +66,7 @@ GPA: 3.04
 <br><br>
 
 ### PUBLICATIONS
-- Arango, L.E. and Quevedo, I.K. (2022), "Credit constraints in Colombia: evidence from the use of credit cards among low- and middle-income individuals", International Journal of Emerging Markets, Vol. ahead-of-print No. ahead-of-print. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3773885](https://doi.org/10.1108/IJOEM-08-2021-1241)
+- Arango, L.E. and Quevedo, I.K. (2022), "Credit constraints in Colombia: evidence from the use of credit cards among low- and middle-income individuals", International Journal of Emerging Markets, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/IJOEM-08-2021-1241 [https://doi.org/10.1108/IJOEM-08-2021-1241]
 - Quevedo, I. K., Herrera-Idárraga, P. & Hernández, H. M. (2021). Condiciones laborales de las y los trabajadores del cuidado en Colombia. Informe Quanta - Cuidado y Género. Recuperado de: [https://cuidadoygenero.org/condiciones-laborales](https://cuidadoygenero.org/condiciones-laborales)
 - Hernández, H. M., Herrera-Idárraga, P. & Quevedo, I. K. (2022). El sector del cuidado remunerado en las principales ciudades de Colombia. Informe Quanta - Cuidado y Género. Recuperado de: [https://cuidadoygenero.org/cuidado_remunerado_ciudades](https://cuidadoygenero.org/cuidado_remunerado_ciudades)
 - Hernández, H. M., Herrera-Idárraga, P. & Quevedo, I. K. (2022). Infraestructura física del cuidado en Colombia: una aproximación cuantitativa a la relación entre el acceso al agua y el uso del tiempo. Informe Quanta - Cuidado y Género. Recuperado de: [https://cuidadoygenero.org/wp-content/uploads/2022/05/Infraestructura-cuidado.pdf](https://cuidadoygenero.org/wp-content/uploads/2022/05/Infraestructura-cuidado.pdf)
