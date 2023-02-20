@@ -82,7 +82,11 @@ GPA: 3.04
   - Spanish - native, English - advanced (TOEFL score = 101/120)
 
 **Skills**
-  - STATA, SAS, Microsoft Office (Excel, PowerPoint, Word), Python, R, Latex, QGis, Eviews.
+  - Proficient at coding in STATA, SAS, Python, SQL, R, and LaTeX (Overleaf, TeX, and Lyx), and employing Power BI, Microsoft Office Suite applications, (Excel, PowerPoint, Word), QGis, Eviews.
+  - Skilled at data analysis, predictive analysis, conducting economic forecasting, qualitative and quantitative analysis, data visualization, text analysis, and web scrapping.
+  - Adept at economic literature review, elaborating reports and presentation.
+  - Experienced in identifying, compiling & organizing large datasets from different sources.
+
 <br><br>
 
 ### RESEARCH INTERESTS
