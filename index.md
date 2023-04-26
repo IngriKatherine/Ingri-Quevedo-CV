@@ -18,10 +18,10 @@ Washington, District of Columbia, United States
 #### Pontificia Universidad Javeriana - Quanta Cuidado y Género
 **Quantitative Research Assistant** _(May 2021 – May 2022)_ <br>
 Remote Bogotá, Colombia 
-  - Analyze and conduct industry research focusing on examining the care sector and gender disparities in the labor market
-  - Perform data input, organization, and cleaning/reconciliation on STATA across 4 household surveys databases and the Colombian Census
-  - Assist in the preparation of a policy brief on the care sector in Colombia, by creating a literature review and descriptive statistics
-  - Support in the preparation and implementation of training workshops for public entities and/or social organizations
+  - Analyzed and conduct industry research focusing on examining the care sector and gender disparities in the labor market
+  - Performed data input, organization, and cleaning/reconciliation on STATA across 4 household surveys databases and the Colombian Census
+  - Assisted in the preparation of a policy brief on the care sector in Colombia, by creating a literature review and descriptive statistics
+  - Supported in the preparation and implementation of training workshops for public entities and/or social organizations
 <br><br>
 
 #### Freelancer
