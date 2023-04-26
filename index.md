@@ -1,6 +1,6 @@
 # Ingri Katherine Quevedo Rocha
 
-Jersey City, NJ | [LinkedIn](https://www.linkedin.com/in/ingri-katherine-quevedo-rocha-387661145/)  | <!--973-313-7970--> | [Email](mailto:katherinquevedo@gmail.com)
+Washington, D.C. | [LinkedIn](https://www.linkedin.com/in/ingri-katherine-quevedo-rocha-387661145/)  | <!--973-313-7970--> | [Email](mailto:katherinquevedo@gmail.com)
 
 ### WORK EXPERIENCE
 
